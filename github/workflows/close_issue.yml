@@ -1,4 +1,4 @@
-name: Close and Comment on Referenced Issues
+name: Fermer et commenter les problèmes référencés
 on:
   pull_request:
     types: [closed]
