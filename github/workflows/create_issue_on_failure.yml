@@ -1,4 +1,4 @@
-name: Create Issue on Workflow Failure
+name: FlowFailures
 on:
   workflow_run:
     workflows: []  # Remplacez par le nom de votre workflow principal

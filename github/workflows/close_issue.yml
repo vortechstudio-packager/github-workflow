@@ -1,4 +1,4 @@
-name: Fermer et commenter les problèmes référencés
+name: CloseIssues
 on:
   pull_request:
     types: [closed]

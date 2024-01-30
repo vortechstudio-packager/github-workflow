@@ -1,4 +1,4 @@
-name: Update Pull Request Title and Description
+name: UpdatePR
 on:
   pull_request:
     types: [opened, synchronize]
